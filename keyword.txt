@@ -1,0 +1,8 @@
+
+WifiHttp KEYWORD1
+connectWifi KEYWORD2
+testWifiConnection KEYWORD2
+initServerConnection KEYWORD2
+sendGetRequest KEYWORD2
+sendPostRequest KEYWORD2
+addRequestBody KEYWORD2
